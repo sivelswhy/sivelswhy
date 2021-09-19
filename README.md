@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there i'm sivelswhy👋
 
-**sivelswhy/sivelswhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **sivelswhy/sivelswhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord : Sivels#001, teamspeak 5 : 
+- 📫 How to reach me: *Discord :* `Sivels#001,` *teamspeak 5 :* `Kamo-ops@myteamspeak.com`
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
