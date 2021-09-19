@@ -12,3 +12,5 @@
 - 📍Live: In Normandy 🇫🇷
 - ⚡ Fun fact: My school has a view on the beach
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=sivelswhy&show_icons=true&theme=outrun&custom_title=%E2%9A%92%EF%B8%8FMy%20Github%20Stats&count_private=false&layout=default">
