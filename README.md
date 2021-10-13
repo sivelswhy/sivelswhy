@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - 📍Live: In Normandy 🇫🇷
 - ⚡ Fun fact: My school has a view on the beach
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O66KNPO)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sivelswhy&show_icons=true&theme=outrun&custom_title=%E2%9A%92%EF%B8%8FMy%20Github%20Stats&count_private=false&layout=default">
 
