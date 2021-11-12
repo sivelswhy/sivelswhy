@@ -10,7 +10,7 @@
 - 📫 How to reach me: *Discord :* `Sivels#001`, *teamspeak 5 :* `Kamo-ops@myteamspeak.com`
 - 😄 Pronouns: He/Him
 <!-- - 📍Live: In Normandy 🇫🇷 -->
-- ⚡ Fun fact: My school has a view on the beach
+<!-- - ⚡ Fun fact: My school has a view on the beach -->
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O66KNPO)
 
