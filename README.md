@@ -25,6 +25,5 @@ George Bool school project
 - Responsive Website
 - Full coverage of George Boole
 - Made with love
-<img src="https://img.shields.io/github/last-commit/sivelswhy/George-Boole?label=LAST%20COMMIT&style=for-the-badge">
 
   
