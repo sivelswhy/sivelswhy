@@ -1,5 +1,3 @@
-révision
-```md
 # Histoire - Géo : Tourisme / Migration
 
 # Tourisme
@@ -30,4 +28,3 @@ révision
 <details><summary>Réfugié</summary>Statut d'une personne bénéficiant d'une protection apportée par la Convention de Genève en raison d'une persécussion ne permettant pas la protection de son pays</details>
 <details><summary>Pourquoi les migrants quittent leur pays</summary>Pour trouver du travail, de meuilleur condition de vie, pays en guerre, pays en dictature...</details>
 
-```
