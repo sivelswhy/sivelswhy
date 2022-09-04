@@ -8,7 +8,7 @@
  - __**https://linktr.ee/sivelswhy**__
 
 - 🔭 I’m currently working on some Discord Bots and NodeJS Scripts like <a href="https://www.npmjs.com/package/youtube-downloading">npx youtube-downloading</a> or <a href="https://github.com/sivelswhy/Zizou"></a>Zizou
-- 🌱 I’m currently learning HTML/CSS and a soon Swift (when i'll have a macbook :))
+- 🌱 I’m currently learning HTML/CSS and learning Dart/Flutter
 - 📫 Rech me through e-mail :<a href="mailto: huttes.majestueux-0s@icloud.com">`huttes.majestueux-0s@icloud.com`</a>
 - 📍Living in France
 - Yes a developer can take showers and have a social life 
