@@ -12,6 +12,7 @@
 - 📫 Rech me through e-mail :<a href="mailto: huttes.majestueux-0s@icloud.com">`huttes.majestueux-0s@icloud.com`</a>
 - 📍Living in France
 - Yes a developer can take showers and have a social life 
+- **[View My profile on Discord](https://discord.com/users/494079726470823936)**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O66KNPO)
 
